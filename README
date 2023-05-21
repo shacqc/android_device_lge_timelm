@@ -1,3 +1,5 @@
+This is the device tree for the LG V60 ThinQ 5G through the use of the android framework. It is able to be used to generate an OTA package to flash a custom operating system onto the device.
+
 TODO
 
 Fingerprint Scanner (UDFPS)
